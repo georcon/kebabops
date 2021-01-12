@@ -822,10 +822,10 @@ header .logo a {
 	padding: 0;
 	outline: 0;
 	border: none;
-	width: 97px;
-	height: 84px;
-	background: url("../images/logo.png") no-repeat center;
-	background-size: 97px 84px;
+	width: 600px;
+	height: 400px;
+	background: url("../images/kebabops_logo.png") no-repeat center;
+	background-size: 600px auto;
 	font: 0/0 a;
 	text-shadow: none;
 	color: transparent;
